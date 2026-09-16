@@ -1,0 +1,7 @@
+interface:
+  display_name: "热刺分析（社区版）"
+  short_description: "热刺赛前前瞻与赛后复盘：证据规则、战术机制、文稿与图表交付"
+  default_prompt: "使用 $tottenham-analysis-community 为热刺的下一场比赛做一份证据驱动的分析，并输出文稿与配图方案。"
+
+policy:
+  allow_implicit_invocation: true
